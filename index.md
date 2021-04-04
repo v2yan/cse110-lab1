@@ -1,7 +1,7 @@
 # Hello! I'm Vivian. :wave:
 ## About Me 
 
-![Profile Pic](./images/profile.jpg =100x)
+![Profile Pic](./images/profile.jpg =100x100)
 
 I'm currently a second-year undergraduate pursuing a B.S. in computer science at the University of California, San Diego. I'm an aspiring front-end developer with interests in design and UI/UX. My ultimate goal is to create conscious and meaningful content that will inspire others. Striving to improve my skillset and expand my knowledge, I am currently seeking internships and collaborations, so please feel free to contact me if interested! :smile:  
 
