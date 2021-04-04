@@ -1,7 +1,7 @@
 # Hello! I'm Vivian. :wave:
 ## About Me 
 
-![Profile Pic](./images/profile.jpg  =100x100)
+[Profile Pic](./images/profile.jpg  =100x)
 
 I'm currently a second-year undergraduate pursuing a B.S. in computer science at the University of California, San Diego. I'm an aspiring front-end developer with interests in design and UI/UX. My ultimate goal is to create conscious and meaningful content that will inspire others. Striving to improve my skillset and expand my knowledge, I am currently seeking internships and collaborations, so please feel free to contact me if interested! :smile:  
 
@@ -32,7 +32,7 @@ On a more personal note, I'm a huge fan of crime shows and basketball (Go Warrio
 **duration:** Nov 2020 - Dec 2020  
 **overview:** I worked in a team of five to conduct a data science project from start to finish. Our focus was analyzing the relationship between COVID-19 policies and individual state economies to determine if a relationship exists. We chose to analyze California, Nevada, and Utah because of their geographical proximity and varying economies. After *many* iterations, we decided to explore this research question: 
 
-> Do state-wide COVID-19 policies in California, Nevada, and Utah have a significant effect on that state's economy? Specifically, what effect is there, if any, of government policy on a state's unemployment rates, consumer spending, and small business revenue?
+> Do state-wide COVID-19 policies in California, Nevada, and Utah have a significant effect on that state's economy? Specifically, what effect is there, if any, of government policy on a state's unemployment rates, consumer spending, and small business revenue?  
 
 
 Fortunately, we were able to find relevant datasets through Github and open government data sources. My job was to parse through these datasets to extract and clean the data we needed using Python pandas library. Below is an example code snippet of one of the cleaning procedures, specifically the one to extract our desired states and their respective data: 
