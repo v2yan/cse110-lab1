@@ -1,18 +1,18 @@
 # Hello! I'm Vivian. :wave:
 ## About Me 
 
-![Profile Pic](./images/profile.jpg =150x)
+![Profile Pic](./images/profile.jpgs=150x)
 
 I'm currently a second-year undergraduate pursuing a B.S. in computer science at the University of California, San Diego. I'm an aspiring front-end developer with interests in design and UI/UX. My ultimate goal is to create conscious and meaningful content that will inspire others. Striving to improve my skillset and expand my knowledge, I am currently seeking internships and collaborations, so please feel free to contact me if interested! :smile:  
 
-Check out my projects [here](#recent-projects) and my resume [here](./files/Yan_PWCResume.pdf)!
+Check out my projects [here](#recent-projects) and download my resume [here](./files/Yan_PWCResume.pdf)!
 
 On a more personal note, I'm a huge fan of crime shows and basketball (Go Warriors! :blue_heart::yellow_heart:), so I'm always watching one or the other during my free time. I also love spending time in nature, especially through hikes and picnics, and with my family, friends, and furry friends.  
 
-![Warriors](./images/warriors.jpg =100x)
-![Nature](./images/nature.jpg =100x)
-![BigRats](./images/bigfriends.jpg =100x)
-![Rat](./images/smallfriend.jpg =100x)
+![Warriors](./images/warriors.jpgs=100x)
+![Nature](./images/nature.jpgs=100x)
+![BigRats](./images/bigfriends.jpgs=100x)
+![Rat](./images/smallfriend.jpgs=100x)
 
 #### Skills
 ###### Programming 
@@ -35,7 +35,7 @@ On a more personal note, I'm a huge fan of crime shows and basketball (Go Warrio
 
 Fortunately, we were able to find relevant datasets through Github and open government data sources. My job was to parse through these datasets to extract and clean the data we needed using Python pandas library. Below is an example code snippet of one of the cleaning procedures, specifically the one to extract our desired states and their respective data: 
 
-``` 
+```
 def get_state_df_econ(dataf, fips):  
         state = dataf[dataf['statefips'] == fips]  
         state = state.reset_index(level=0)  
