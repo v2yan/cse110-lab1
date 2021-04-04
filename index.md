@@ -1,7 +1,7 @@
 # Hello! I'm Vivian. :wave:
 ## About Me 
 
-![Profile Pic](./images/profile.jpgs=150x)
+![Profile Pic](./images/profile.jpg&s=150x)
 
 I'm currently a second-year undergraduate pursuing a B.S. in computer science at the University of California, San Diego. I'm an aspiring front-end developer with interests in design and UI/UX. My ultimate goal is to create conscious and meaningful content that will inspire others. Striving to improve my skillset and expand my knowledge, I am currently seeking internships and collaborations, so please feel free to contact me if interested! :smile:  
 
@@ -9,10 +9,10 @@ Check out my projects [here](#recent-projects) and download my resume [here](./f
 
 On a more personal note, I'm a huge fan of crime shows and basketball (Go Warriors! :blue_heart::yellow_heart:), so I'm always watching one or the other during my free time. I also love spending time in nature, especially through hikes and picnics, and with my family, friends, and furry friends.  
 
-![Warriors](./images/warriors.jpgs=100x)
-![Nature](./images/nature.jpgs=100x)
-![BigRats](./images/bigfriends.jpgs=100x)
-![Rat](./images/smallfriend.jpgs=100x)
+![Warriors](./images/warriors.jpg&s=100x)
+![Nature](./images/nature.jpg&s=100x)
+![BigRats](./images/bigfriends.jpg&s=100x)
+![Rat](./images/smallfriend.jpg&s=100x)
 
 #### Skills
 ###### Programming 
@@ -48,6 +48,7 @@ def get_state_df_econ(dataf, fips):
 
 Read more about this project [here](https://github.com/COGS108/group018_fa20/blob/main/FinalProject_group018.ipynb)!
 
+--------------------------------------------------------------------------
 ### Text-Activated Generator
 **role:** programmer + ui design 
 **duration:** August 2019 - September 2019
