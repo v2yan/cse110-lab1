@@ -1,7 +1,7 @@
 # Hello! I'm Vivian. :wave:
 ## About Me 
 
-![Profile Pic](./images/profile.jpg){ width=50% }
+![Profile Pic](./images/profile.jpg =100x)
 
 I'm currently a second-year undergraduate pursuing a B.S. in computer science at the University of California, San Diego. I'm an aspiring front-end developer with interests in design and UI/UX. My ultimate goal is to create conscious and meaningful content that will inspire others. Striving to improve my skillset and expand my knowledge, I am currently seeking internships and collaborations, so please feel free to contact me if interested! :smile:  
 
@@ -9,10 +9,10 @@ Check out my projects [here](#recent-projects) and download my resume [here](./f
 
 On a more personal note, I'm a huge fan of crime shows and basketball (Go Warriors! :blue_heart::yellow_heart:), so I'm always watching one or the other during my free time. I also love spending time in nature, especially through hikes and picnics, and with my family, friends, and furry friends.  
 
-![Warriors](./images/warriors.jpg  =100x)
-![Nature](./images/nature.jpg  =100x)
-![BigRats](./images/bigfriends.jpg  =100x)
-![Rat](./images/smallfriend.jpg  =100x)
+![Warriors](./images/warriors.jpg)
+![Nature](./images/nature.jpg)
+![BigRats](./images/bigfriends.jpg)
+![Rat](./images/smallfriend.jpg)
 
 #### Skills
 ###### Programming 
